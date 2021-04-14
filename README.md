@@ -6,7 +6,7 @@ This codebase contains PyTorch implementation of the paper:
 > Shashank Sonkar, Arzoo Katiyar, and Richard G. Baraniuk.
 > [[Paper]]()
 
-The codebase is inspired from [TuckER's github repository](https://arxiv.org/pdf/1901.09590.pdf).
+The codebase is inspired from [TuckER's github repository](https://github.com/ibalazevic/TuckER).
 TuckER is the PyTorch implementation of the paper:
 
 > TuckER: Tensor Factorization for Knowledge Graph Completion.
