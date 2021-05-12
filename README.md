@@ -1,10 +1,6 @@
 ## NePTuNe: Neural Powered Tucker Network.
 
-This codebase contains PyTorch implementation of the paper:
-
-> NePTuNe: Neural Powered Tucker Network.
-> Shashank Sonkar, Arzoo Katiyar, and Richard G. Baraniuk.
-> [[Paper]](http://arxiv.org/abs/2104.07824)
+This codebase contains PyTorch implementation of the paper NePTuNe.
 
 The codebase is inspired from [TuckER's github repository](https://github.com/ibalazevic/TuckER).
 TuckER is the PyTorch implementation of the paper:
