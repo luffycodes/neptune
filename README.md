@@ -4,9 +4,9 @@ This codebase contains PyTorch implementation of the paper:
 
 > NePTuNe: Neural Powered Tucker Network.
 > Shashank Sonkar, Arzoo Katiyar, and Richard G. Baraniuk.
-> [[Paper]](http://arxiv.org/abs/2104.07824)
+> [[Paper]](https://dl.acm.org/doi/abs/10.1145/3502223.3502249)
 
-The paper won best short paper award at IJCKG'21. 
+${\color{green}{\textrm{This paper won the best short paper award at 10th IJCKG'21.}}}$
 
 The codebase is inspired from [TuckER's github repository](https://github.com/ibalazevic/TuckER).
 TuckER is the PyTorch implementation of the paper:
