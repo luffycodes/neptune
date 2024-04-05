@@ -6,6 +6,8 @@ This codebase contains PyTorch implementation of the paper:
 > Shashank Sonkar, Arzoo Katiyar, and Richard G. Baraniuk.
 > [[Paper]](http://arxiv.org/abs/2104.07824)
 
+The paper won best short paper award at IJCKG'21. 
+
 The codebase is inspired from [TuckER's github repository](https://github.com/ibalazevic/TuckER).
 TuckER is the PyTorch implementation of the paper:
 
